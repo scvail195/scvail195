@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scvail195
 - 👀 I’m interested in media optimization, data science and machine learning.
-- 🌱 I’m currently learning GCP pipelines
+- 🌱 I’m currently learning Pyspark and GCP pipelines
 - 💞️ I’m looking to collaborate on cloud data pipelines
 - 📫 How to reach me scvail1150@gmail.com
 
